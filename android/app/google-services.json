@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655173843460",
+    "project_id": "tabkhty-app",
+    "storage_bucket": "tabkhty-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655173843460:android:2da0e57b5fd7415195d351",
+        "android_client_info": {
+          "package_name": "com.example.tabkhty_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEsgCNalZN6_1TauqkOVaP6Yd5rv0PbYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
